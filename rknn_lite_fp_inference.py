@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+
 """
 RKNN Lite 2 测试rknn模型对单张图片进行预处理和推理。
 python3 rknn_lite_fp_inference.py --model best_fp.rknn --image test.jpg --names "class_A" "class_B"
